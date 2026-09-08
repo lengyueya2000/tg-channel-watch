@@ -1,0 +1,11 @@
+# 账号凭证:泄露等于 TG 账号被接管,严禁入库
+session.session*
+*.session
+
+# 运行数据
+db.sqlite3
+watch.log
+watch.old.log
+downloads/
+__pycache__/
+*.pyc
